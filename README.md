@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kvsnrkolapalli
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on which I was fit to the Role
 - 📫 How to reach me kvsnrkolapalli@gmail.com
 
 <!---
